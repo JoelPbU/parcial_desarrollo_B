@@ -1,0 +1,32 @@
+[
+{
+"nombre":"Hoodie Urban Black",
+"precio":"120000",
+"imagen":"img/hoodie.jpg"
+},
+{
+"nombre":"Pantalón Cargo Street",
+"precio":"150000",
+"imagen":"img/cargo.jpg"
+},
+{
+"nombre":"Camiseta Oversize White",
+"precio":"90000",
+"imagen":"img/camiseta.jpg"
+},
+{
+"nombre":"Hoodie Gray Street",
+"precio":"125000",
+"imagen":"img/hoodie2.jpg"
+},
+{
+"nombre":"Cargo Black Classic",
+"precio":"145000",
+"imagen":"img/cargo2.jpg"
+},
+{
+"nombre":"Oversize Basic Tee",
+"precio":"85000",
+"imagen":"img/camiseta2.jpg"
+}
+]
