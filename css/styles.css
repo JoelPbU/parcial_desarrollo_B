@@ -23,7 +23,9 @@ gap:20px;
 .producto{
 background:white;
 border:1px solid #ddd;
-
+padding:15px;
+width:220px;
+text-align:center;
 }
 
 .producto img{
@@ -38,7 +40,7 @@ color:white;
 border:none;
 padding:10px;
 margin-top:10px;
-
+cursor:pointer;
 }
 
 .footer{
@@ -50,8 +52,13 @@ margin-top:40px;
 }
 
 
+/* BANNER */
+
 .banner{
 height:300px;
+background-image:url("https://images.unsplash.com/photo-1523381210434-271e8be1f52b");
+background-size:cover;
+background-position:center;
 display:flex;
 align-items:center;
 justify-content:center;
@@ -105,7 +112,8 @@ width:100%;
 padding:12px;
 background:black;
 color:white;
-
+border:none;
+cursor:pointer;
 }
 
 .login-box button:hover{
